@@ -1,23 +1,18 @@
-# Project Name
+# starr.os
 
 ## What is this?
-A 2–4 sentence human explanation.
-What problem does it solve or what is it exploring?
+This is an opinonated, yet minimal Linux distro I originally made for my own "starrbook" hardware, but can be used on most ARM and x86 computers! The operating system was designed for ease-of-use, customization, integration with starrbook hardware, AND not only that, it is one of the FIRST Linux distros to come with WinBoat, which means it is able to run most Windows software out of the box! The operating system runs very smoothly and look very good, which I hope you enjoy!
 
 ## Why I built this
-Your motivation.
-What you were curious about.
-What you wanted to learn.
+I just wanted to make a better operating system, while learning some stuff about operating system development along the way.
 
 ## Features
-- Key feature 1
-- Key feature 2
-- Key feature 3
+- Ability to run Windows apps with WinBoat.
+- Ability to utilize the starrbook's special features.
+- Undefeated style.
 
 ## Tech Stack
-- Hardware:
-- Software:
-- Tools:
+- Tools: WinBoat, Cubic, Affinity, VSCode, and Kubuntu.
 
 ## How it works (high level)
 Explain the system in simple terms.
@@ -36,12 +31,12 @@ Step-by-step so someone else could recreate it.
 - What you learned
 
 ## Current Status
-- [x] Done
-- [ ] In progress
+- [ ] Done
+- [x] In progress
 - [ ] Future ideas
 
 ## Media
 Images, renders, screenshots, videos.
 
 ## License
-(Open-source license here)
+GNU Public License.
