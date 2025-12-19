@@ -7,7 +7,7 @@ This is an opinonated, yet minimal Linux distro I originally made for my own "st
 I just wanted to make a better operating system, while learning some stuff about operating system development along the way.
 
 ## Features
-- Ability to run Windows apps with WinBoat.
+- Ability to run Windows apps with WinRocket.
 - Ability to utilize the starrbook's special features.
 - Undefeated style.
 
