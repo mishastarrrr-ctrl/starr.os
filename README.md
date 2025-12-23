@@ -12,7 +12,7 @@ I just wanted to make a better operating system, while learning some stuff about
 - Undefeated style.
 
 ## Tech Stack
-- Tools: WinBoat, Cubic, Affinity, VSCode, and Kubuntu.
+- Tools: WinBoat, Cubic, Affinity, VSCode, and Linux From Scratch.
 
 ## How it works (high level) (soon)
 Explains the system in simple terms.
