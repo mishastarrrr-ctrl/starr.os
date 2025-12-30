@@ -1,7 +1,7 @@
-# starr.os (UNFINISHED PROJECT DEVLOG ONLY FOR NOW)
+# starr.os (UNFINISHED PROJECT)
 
 ## What is this?
-This is an opinonated, yet minimal Linux distro I originally made for my own "starrbook" hardware, but can be used on most ARM and x86 computers! The operating system was designed for ease-of-use, customization, integration with starrbook hardware, AND not only that, it is one of the FIRST Linux distros to come with WinBoat, which means it is able to run most Windows software out of the box! The operating system runs very smoothly and look very good, which I hope you enjoy!
+This is an opinonated, yet minimal Linux distro I originally made for my own "<a href= "https://github.com/mishastarrrr-ctrl/starrbook">starrbook</a>" hardware, but can be used on most ARM and x86 computers! The operating system was designed for ease-of-use, customization, integration with starrbook hardware, AND not only that, it is the FIRST Linux distro to come with <a href= "https://github.com/mishastarrrr-ctrl/WinRocket">WinRocket</a>, which means it is able to run most Windows software out of the box! The operating system runs very smoothly and looks very good, which I hope you enjoy!
 
 ## Why I built this
 I just wanted to make a better operating system, while learning some stuff about operating system development along the way.
@@ -12,7 +12,7 @@ I just wanted to make a better operating system, while learning some stuff about
 - Undefeated style.
 
 ## Tech Stack
-- Tools: WinBoat, Cubic, Affinity, VSCode, and Linux From Scratch.
+- Tools: WinRoat, Cubic, Affinity, and VSCode.
 
 ## How it works (high level) (soon)
 Explains the system in simple terms.
